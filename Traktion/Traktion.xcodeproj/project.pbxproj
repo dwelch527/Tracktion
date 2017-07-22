@@ -7,66 +7,66 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
-		6BC5AA381F2405FA004F6731 /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 6BC5AA371F2405FA004F6731 /* AppDelegate.swift */; };
-		6BC5AA3A1F2405FA004F6731 /* FirstViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 6BC5AA391F2405FA004F6731 /* FirstViewController.swift */; };
-		6BC5AA3C1F2405FA004F6731 /* SecondViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 6BC5AA3B1F2405FA004F6731 /* SecondViewController.swift */; };
-		6BC5AA3F1F2405FA004F6731 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 6BC5AA3D1F2405FA004F6731 /* Main.storyboard */; };
-		6BC5AA411F2405FA004F6731 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 6BC5AA401F2405FA004F6731 /* Assets.xcassets */; };
-		6BC5AA441F2405FA004F6731 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 6BC5AA421F2405FA004F6731 /* LaunchScreen.storyboard */; };
-		6BC5AA4F1F2405FA004F6731 /* TraktionTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 6BC5AA4E1F2405FA004F6731 /* TraktionTests.swift */; };
-		6BC5AA5A1F2405FA004F6731 /* TraktionUITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 6BC5AA591F2405FA004F6731 /* TraktionUITests.swift */; };
+		6B5E675A1F24087C00A84896 /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 6B5E67591F24087C00A84896 /* AppDelegate.swift */; };
+		6B5E675C1F24087C00A84896 /* FirstViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 6B5E675B1F24087C00A84896 /* FirstViewController.swift */; };
+		6B5E675E1F24087C00A84896 /* SecondViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 6B5E675D1F24087C00A84896 /* SecondViewController.swift */; };
+		6B5E67611F24087C00A84896 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 6B5E675F1F24087C00A84896 /* Main.storyboard */; };
+		6B5E67631F24087C00A84896 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 6B5E67621F24087C00A84896 /* Assets.xcassets */; };
+		6B5E67661F24087C00A84896 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 6B5E67641F24087C00A84896 /* LaunchScreen.storyboard */; };
+		6B5E67711F24087C00A84896 /* TraktionTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 6B5E67701F24087C00A84896 /* TraktionTests.swift */; };
+		6B5E677C1F24087C00A84896 /* TraktionUITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 6B5E677B1F24087C00A84896 /* TraktionUITests.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
-		6BC5AA4B1F2405FA004F6731 /* PBXContainerItemProxy */ = {
+		6B5E676D1F24087C00A84896 /* PBXContainerItemProxy */ = {
 			isa = PBXContainerItemProxy;
-			containerPortal = 6BC5AA2C1F2405F9004F6731 /* Project object */;
+			containerPortal = 6B5E674E1F24087C00A84896 /* Project object */;
 			proxyType = 1;
-			remoteGlobalIDString = 6BC5AA331F2405FA004F6731;
+			remoteGlobalIDString = 6B5E67551F24087C00A84896;
 			remoteInfo = Traktion;
 		};
-		6BC5AA561F2405FA004F6731 /* PBXContainerItemProxy */ = {
+		6B5E67781F24087C00A84896 /* PBXContainerItemProxy */ = {
 			isa = PBXContainerItemProxy;
-			containerPortal = 6BC5AA2C1F2405F9004F6731 /* Project object */;
+			containerPortal = 6B5E674E1F24087C00A84896 /* Project object */;
 			proxyType = 1;
-			remoteGlobalIDString = 6BC5AA331F2405FA004F6731;
+			remoteGlobalIDString = 6B5E67551F24087C00A84896;
 			remoteInfo = Traktion;
 		};
 /* End PBXContainerItemProxy section */
 
 /* Begin PBXFileReference section */
-		6BC5AA341F2405FA004F6731 /* Traktion.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = Traktion.app; sourceTree = BUILT_PRODUCTS_DIR; };
-		6BC5AA371F2405FA004F6731 /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
-		6BC5AA391F2405FA004F6731 /* FirstViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = FirstViewController.swift; sourceTree = "<group>"; };
-		6BC5AA3B1F2405FA004F6731 /* SecondViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SecondViewController.swift; sourceTree = "<group>"; };
-		6BC5AA3E1F2405FA004F6731 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/Main.storyboard; sourceTree = "<group>"; };
-		6BC5AA401F2405FA004F6731 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
-		6BC5AA431F2405FA004F6731 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
-		6BC5AA451F2405FA004F6731 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
-		6BC5AA4A1F2405FA004F6731 /* TraktionTests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = TraktionTests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
-		6BC5AA4E1F2405FA004F6731 /* TraktionTests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = TraktionTests.swift; sourceTree = "<group>"; };
-		6BC5AA501F2405FA004F6731 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
-		6BC5AA551F2405FA004F6731 /* TraktionUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = TraktionUITests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
-		6BC5AA591F2405FA004F6731 /* TraktionUITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = TraktionUITests.swift; sourceTree = "<group>"; };
-		6BC5AA5B1F2405FA004F6731 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		6B5E67561F24087C00A84896 /* Traktion.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = Traktion.app; sourceTree = BUILT_PRODUCTS_DIR; };
+		6B5E67591F24087C00A84896 /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
+		6B5E675B1F24087C00A84896 /* FirstViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = FirstViewController.swift; sourceTree = "<group>"; };
+		6B5E675D1F24087C00A84896 /* SecondViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SecondViewController.swift; sourceTree = "<group>"; };
+		6B5E67601F24087C00A84896 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/Main.storyboard; sourceTree = "<group>"; };
+		6B5E67621F24087C00A84896 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
+		6B5E67651F24087C00A84896 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
+		6B5E67671F24087C00A84896 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		6B5E676C1F24087C00A84896 /* TraktionTests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = TraktionTests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
+		6B5E67701F24087C00A84896 /* TraktionTests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = TraktionTests.swift; sourceTree = "<group>"; };
+		6B5E67721F24087C00A84896 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		6B5E67771F24087C00A84896 /* TraktionUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = TraktionUITests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
+		6B5E677B1F24087C00A84896 /* TraktionUITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = TraktionUITests.swift; sourceTree = "<group>"; };
+		6B5E677D1F24087C00A84896 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
-		6BC5AA311F2405FA004F6731 /* Frameworks */ = {
+		6B5E67531F24087C00A84896 /* Frameworks */ = {
 			isa = PBXFrameworksBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
-		6BC5AA471F2405FA004F6731 /* Frameworks */ = {
+		6B5E67691F24087C00A84896 /* Frameworks */ = {
 			isa = PBXFrameworksBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
-		6BC5AA521F2405FA004F6731 /* Frameworks */ = {
+		6B5E67741F24087C00A84896 /* Frameworks */ = {
 			isa = PBXFrameworksBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
@@ -76,54 +76,54 @@
 /* End PBXFrameworksBuildPhase section */
 
 /* Begin PBXGroup section */
-		6BC5AA2B1F2405F9004F6731 = {
+		6B5E674D1F24087C00A84896 = {
 			isa = PBXGroup;
 			children = (
-				6BC5AA361F2405FA004F6731 /* Traktion */,
-				6BC5AA4D1F2405FA004F6731 /* TraktionTests */,
-				6BC5AA581F2405FA004F6731 /* TraktionUITests */,
-				6BC5AA351F2405FA004F6731 /* Products */,
+				6B5E67581F24087C00A84896 /* Traktion */,
+				6B5E676F1F24087C00A84896 /* TraktionTests */,
+				6B5E677A1F24087C00A84896 /* TraktionUITests */,
+				6B5E67571F24087C00A84896 /* Products */,
 			);
 			sourceTree = "<group>";
 		};
-		6BC5AA351F2405FA004F6731 /* Products */ = {
+		6B5E67571F24087C00A84896 /* Products */ = {
 			isa = PBXGroup;
 			children = (
-				6BC5AA341F2405FA004F6731 /* Traktion.app */,
-				6BC5AA4A1F2405FA004F6731 /* TraktionTests.xctest */,
-				6BC5AA551F2405FA004F6731 /* TraktionUITests.xctest */,
+				6B5E67561F24087C00A84896 /* Traktion.app */,
+				6B5E676C1F24087C00A84896 /* TraktionTests.xctest */,
+				6B5E67771F24087C00A84896 /* TraktionUITests.xctest */,
 			);
 			name = Products;
 			sourceTree = "<group>";
 		};
-		6BC5AA361F2405FA004F6731 /* Traktion */ = {
+		6B5E67581F24087C00A84896 /* Traktion */ = {
 			isa = PBXGroup;
 			children = (
-				6BC5AA371F2405FA004F6731 /* AppDelegate.swift */,
-				6BC5AA391F2405FA004F6731 /* FirstViewController.swift */,
-				6BC5AA3B1F2405FA004F6731 /* SecondViewController.swift */,
-				6BC5AA3D1F2405FA004F6731 /* Main.storyboard */,
-				6BC5AA401F2405FA004F6731 /* Assets.xcassets */,
-				6BC5AA421F2405FA004F6731 /* LaunchScreen.storyboard */,
-				6BC5AA451F2405FA004F6731 /* Info.plist */,
+				6B5E67591F24087C00A84896 /* AppDelegate.swift */,
+				6B5E675B1F24087C00A84896 /* FirstViewController.swift */,
+				6B5E675D1F24087C00A84896 /* SecondViewController.swift */,
+				6B5E675F1F24087C00A84896 /* Main.storyboard */,
+				6B5E67621F24087C00A84896 /* Assets.xcassets */,
+				6B5E67641F24087C00A84896 /* LaunchScreen.storyboard */,
+				6B5E67671F24087C00A84896 /* Info.plist */,
 			);
 			path = Traktion;
 			sourceTree = "<group>";
 		};
-		6BC5AA4D1F2405FA004F6731 /* TraktionTests */ = {
+		6B5E676F1F24087C00A84896 /* TraktionTests */ = {
 			isa = PBXGroup;
 			children = (
-				6BC5AA4E1F2405FA004F6731 /* TraktionTests.swift */,
-				6BC5AA501F2405FA004F6731 /* Info.plist */,
+				6B5E67701F24087C00A84896 /* TraktionTests.swift */,
+				6B5E67721F24087C00A84896 /* Info.plist */,
 			);
 			path = TraktionTests;
 			sourceTree = "<group>";
 		};
-		6BC5AA581F2405FA004F6731 /* TraktionUITests */ = {
+		6B5E677A1F24087C00A84896 /* TraktionUITests */ = {
 			isa = PBXGroup;
 			children = (
-				6BC5AA591F2405FA004F6731 /* TraktionUITests.swift */,
-				6BC5AA5B1F2405FA004F6731 /* Info.plist */,
+				6B5E677B1F24087C00A84896 /* TraktionUITests.swift */,
+				6B5E677D1F24087C00A84896 /* Info.plist */,
 			);
 			path = TraktionUITests;
 			sourceTree = "<group>";
@@ -131,13 +131,13 @@
 /* End PBXGroup section */
 
 /* Begin PBXNativeTarget section */
-		6BC5AA331F2405FA004F6731 /* Traktion */ = {
+		6B5E67551F24087C00A84896 /* Traktion */ = {
 			isa = PBXNativeTarget;
-			buildConfigurationList = 6BC5AA5E1F2405FA004F6731 /* Build configuration list for PBXNativeTarget "Traktion" */;
+			buildConfigurationList = 6B5E67801F24087C00A84896 /* Build configuration list for PBXNativeTarget "Traktion" */;
 			buildPhases = (
-				6BC5AA301F2405FA004F6731 /* Sources */,
-				6BC5AA311F2405FA004F6731 /* Frameworks */,
-				6BC5AA321F2405FA004F6731 /* Resources */,
+				6B5E67521F24087C00A84896 /* Sources */,
+				6B5E67531F24087C00A84896 /* Frameworks */,
+				6B5E67541F24087C00A84896 /* Resources */,
 			);
 			buildRules = (
 			);
@@ -145,73 +145,73 @@
 			);
 			name = Traktion;
 			productName = Traktion;
-			productReference = 6BC5AA341F2405FA004F6731 /* Traktion.app */;
+			productReference = 6B5E67561F24087C00A84896 /* Traktion.app */;
 			productType = "com.apple.product-type.application";
 		};
-		6BC5AA491F2405FA004F6731 /* TraktionTests */ = {
+		6B5E676B1F24087C00A84896 /* TraktionTests */ = {
 			isa = PBXNativeTarget;
-			buildConfigurationList = 6BC5AA611F2405FA004F6731 /* Build configuration list for PBXNativeTarget "TraktionTests" */;
+			buildConfigurationList = 6B5E67831F24087C00A84896 /* Build configuration list for PBXNativeTarget "TraktionTests" */;
 			buildPhases = (
-				6BC5AA461F2405FA004F6731 /* Sources */,
-				6BC5AA471F2405FA004F6731 /* Frameworks */,
-				6BC5AA481F2405FA004F6731 /* Resources */,
+				6B5E67681F24087C00A84896 /* Sources */,
+				6B5E67691F24087C00A84896 /* Frameworks */,
+				6B5E676A1F24087C00A84896 /* Resources */,
 			);
 			buildRules = (
 			);
 			dependencies = (
-				6BC5AA4C1F2405FA004F6731 /* PBXTargetDependency */,
+				6B5E676E1F24087C00A84896 /* PBXTargetDependency */,
 			);
 			name = TraktionTests;
 			productName = TraktionTests;
-			productReference = 6BC5AA4A1F2405FA004F6731 /* TraktionTests.xctest */;
+			productReference = 6B5E676C1F24087C00A84896 /* TraktionTests.xctest */;
 			productType = "com.apple.product-type.bundle.unit-test";
 		};
-		6BC5AA541F2405FA004F6731 /* TraktionUITests */ = {
+		6B5E67761F24087C00A84896 /* TraktionUITests */ = {
 			isa = PBXNativeTarget;
-			buildConfigurationList = 6BC5AA641F2405FA004F6731 /* Build configuration list for PBXNativeTarget "TraktionUITests" */;
+			buildConfigurationList = 6B5E67861F24087C00A84896 /* Build configuration list for PBXNativeTarget "TraktionUITests" */;
 			buildPhases = (
-				6BC5AA511F2405FA004F6731 /* Sources */,
-				6BC5AA521F2405FA004F6731 /* Frameworks */,
-				6BC5AA531F2405FA004F6731 /* Resources */,
+				6B5E67731F24087C00A84896 /* Sources */,
+				6B5E67741F24087C00A84896 /* Frameworks */,
+				6B5E67751F24087C00A84896 /* Resources */,
 			);
 			buildRules = (
 			);
 			dependencies = (
-				6BC5AA571F2405FA004F6731 /* PBXTargetDependency */,
+				6B5E67791F24087C00A84896 /* PBXTargetDependency */,
 			);
 			name = TraktionUITests;
 			productName = TraktionUITests;
-			productReference = 6BC5AA551F2405FA004F6731 /* TraktionUITests.xctest */;
+			productReference = 6B5E67771F24087C00A84896 /* TraktionUITests.xctest */;
 			productType = "com.apple.product-type.bundle.ui-testing";
 		};
 /* End PBXNativeTarget section */
 
 /* Begin PBXProject section */
-		6BC5AA2C1F2405F9004F6731 /* Project object */ = {
+		6B5E674E1F24087C00A84896 /* Project object */ = {
 			isa = PBXProject;
 			attributes = {
 				LastSwiftUpdateCheck = 0830;
 				LastUpgradeCheck = 0830;
 				ORGANIZATIONNAME = "Dylan Welch";
 				TargetAttributes = {
-					6BC5AA331F2405FA004F6731 = {
+					6B5E67551F24087C00A84896 = {
 						CreatedOnToolsVersion = 8.3.3;
 						DevelopmentTeam = G632RV36UM;
 						ProvisioningStyle = Automatic;
 					};
-					6BC5AA491F2405FA004F6731 = {
+					6B5E676B1F24087C00A84896 = {
 						CreatedOnToolsVersion = 8.3.3;
 						ProvisioningStyle = Automatic;
-						TestTargetID = 6BC5AA331F2405FA004F6731;
+						TestTargetID = 6B5E67551F24087C00A84896;
 					};
-					6BC5AA541F2405FA004F6731 = {
+					6B5E67761F24087C00A84896 = {
 						CreatedOnToolsVersion = 8.3.3;
 						ProvisioningStyle = Automatic;
-						TestTargetID = 6BC5AA331F2405FA004F6731;
+						TestTargetID = 6B5E67551F24087C00A84896;
 					};
 				};
 			};
-			buildConfigurationList = 6BC5AA2F1F2405F9004F6731 /* Build configuration list for PBXProject "Traktion" */;
+			buildConfigurationList = 6B5E67511F24087C00A84896 /* Build configuration list for PBXProject "Traktion" */;
 			compatibilityVersion = "Xcode 3.2";
 			developmentRegion = English;
 			hasScannedForEncodings = 0;
@@ -219,37 +219,37 @@
 				en,
 				Base,
 			);
-			mainGroup = 6BC5AA2B1F2405F9004F6731;
-			productRefGroup = 6BC5AA351F2405FA004F6731 /* Products */;
+			mainGroup = 6B5E674D1F24087C00A84896;
+			productRefGroup = 6B5E67571F24087C00A84896 /* Products */;
 			projectDirPath = "";
 			projectRoot = "";
 			targets = (
-				6BC5AA331F2405FA004F6731 /* Traktion */,
-				6BC5AA491F2405FA004F6731 /* TraktionTests */,
-				6BC5AA541F2405FA004F6731 /* TraktionUITests */,
+				6B5E67551F24087C00A84896 /* Traktion */,
+				6B5E676B1F24087C00A84896 /* TraktionTests */,
+				6B5E67761F24087C00A84896 /* TraktionUITests */,
 			);
 		};
 /* End PBXProject section */
 
 /* Begin PBXResourcesBuildPhase section */
-		6BC5AA321F2405FA004F6731 /* Resources */ = {
+		6B5E67541F24087C00A84896 /* Resources */ = {
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				6BC5AA441F2405FA004F6731 /* LaunchScreen.storyboard in Resources */,
-				6BC5AA411F2405FA004F6731 /* Assets.xcassets in Resources */,
-				6BC5AA3F1F2405FA004F6731 /* Main.storyboard in Resources */,
+				6B5E67661F24087C00A84896 /* LaunchScreen.storyboard in Resources */,
+				6B5E67631F24087C00A84896 /* Assets.xcassets in Resources */,
+				6B5E67611F24087C00A84896 /* Main.storyboard in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
-		6BC5AA481F2405FA004F6731 /* Resources */ = {
+		6B5E676A1F24087C00A84896 /* Resources */ = {
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
-		6BC5AA531F2405FA004F6731 /* Resources */ = {
+		6B5E67751F24087C00A84896 /* Resources */ = {
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
@@ -259,60 +259,60 @@
 /* End PBXResourcesBuildPhase section */
 
 /* Begin PBXSourcesBuildPhase section */
-		6BC5AA301F2405FA004F6731 /* Sources */ = {
+		6B5E67521F24087C00A84896 /* Sources */ = {
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				6BC5AA3C1F2405FA004F6731 /* SecondViewController.swift in Sources */,
-				6BC5AA381F2405FA004F6731 /* AppDelegate.swift in Sources */,
-				6BC5AA3A1F2405FA004F6731 /* FirstViewController.swift in Sources */,
+				6B5E675E1F24087C00A84896 /* SecondViewController.swift in Sources */,
+				6B5E675A1F24087C00A84896 /* AppDelegate.swift in Sources */,
+				6B5E675C1F24087C00A84896 /* FirstViewController.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
-		6BC5AA461F2405FA004F6731 /* Sources */ = {
+		6B5E67681F24087C00A84896 /* Sources */ = {
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				6BC5AA4F1F2405FA004F6731 /* TraktionTests.swift in Sources */,
+				6B5E67711F24087C00A84896 /* TraktionTests.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
-		6BC5AA511F2405FA004F6731 /* Sources */ = {
+		6B5E67731F24087C00A84896 /* Sources */ = {
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				6BC5AA5A1F2405FA004F6731 /* TraktionUITests.swift in Sources */,
+				6B5E677C1F24087C00A84896 /* TraktionUITests.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
 /* End PBXSourcesBuildPhase section */
 
 /* Begin PBXTargetDependency section */
-		6BC5AA4C1F2405FA004F6731 /* PBXTargetDependency */ = {
+		6B5E676E1F24087C00A84896 /* PBXTargetDependency */ = {
 			isa = PBXTargetDependency;
-			target = 6BC5AA331F2405FA004F6731 /* Traktion */;
-			targetProxy = 6BC5AA4B1F2405FA004F6731 /* PBXContainerItemProxy */;
+			target = 6B5E67551F24087C00A84896 /* Traktion */;
+			targetProxy = 6B5E676D1F24087C00A84896 /* PBXContainerItemProxy */;
 		};
-		6BC5AA571F2405FA004F6731 /* PBXTargetDependency */ = {
+		6B5E67791F24087C00A84896 /* PBXTargetDependency */ = {
 			isa = PBXTargetDependency;
-			target = 6BC5AA331F2405FA004F6731 /* Traktion */;
-			targetProxy = 6BC5AA561F2405FA004F6731 /* PBXContainerItemProxy */;
+			target = 6B5E67551F24087C00A84896 /* Traktion */;
+			targetProxy = 6B5E67781F24087C00A84896 /* PBXContainerItemProxy */;
 		};
 /* End PBXTargetDependency section */
 
 /* Begin PBXVariantGroup section */
-		6BC5AA3D1F2405FA004F6731 /* Main.storyboard */ = {
+		6B5E675F1F24087C00A84896 /* Main.storyboard */ = {
 			isa = PBXVariantGroup;
 			children = (
-				6BC5AA3E1F2405FA004F6731 /* Base */,
+				6B5E67601F24087C00A84896 /* Base */,
 			);
 			name = Main.storyboard;
 			sourceTree = "<group>";
 		};
-		6BC5AA421F2405FA004F6731 /* LaunchScreen.storyboard */ = {
+		6B5E67641F24087C00A84896 /* LaunchScreen.storyboard */ = {
 			isa = PBXVariantGroup;
 			children = (
-				6BC5AA431F2405FA004F6731 /* Base */,
+				6B5E67651F24087C00A84896 /* Base */,
 			);
 			name = LaunchScreen.storyboard;
 			sourceTree = "<group>";
@@ -320,7 +320,7 @@
 /* End PBXVariantGroup section */
 
 /* Begin XCBuildConfiguration section */
-		6BC5AA5C1F2405FA004F6731 /* Debug */ = {
+		6B5E677E1F24087C00A84896 /* Debug */ = {
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ALWAYS_SEARCH_USER_PATHS = NO;
@@ -371,7 +371,7 @@
 			};
 			name = Debug;
 		};
-		6BC5AA5D1F2405FA004F6731 /* Release */ = {
+		6B5E677F1F24087C00A84896 /* Release */ = {
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ALWAYS_SEARCH_USER_PATHS = NO;
@@ -415,7 +415,7 @@
 			};
 			name = Release;
 		};
-		6BC5AA5F1F2405FA004F6731 /* Debug */ = {
+		6B5E67811F24087C00A84896 /* Debug */ = {
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
@@ -428,7 +428,7 @@
 			};
 			name = Debug;
 		};
-		6BC5AA601F2405FA004F6731 /* Release */ = {
+		6B5E67821F24087C00A84896 /* Release */ = {
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
@@ -441,7 +441,7 @@
 			};
 			name = Release;
 		};
-		6BC5AA621F2405FA004F6731 /* Debug */ = {
+		6B5E67841F24087C00A84896 /* Debug */ = {
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ALWAYS_EMBED_SWIFT_STANDARD_LIBRARIES = YES;
@@ -455,7 +455,7 @@
 			};
 			name = Debug;
 		};
-		6BC5AA631F2405FA004F6731 /* Release */ = {
+		6B5E67851F24087C00A84896 /* Release */ = {
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ALWAYS_EMBED_SWIFT_STANDARD_LIBRARIES = YES;
@@ -469,7 +469,7 @@
 			};
 			name = Release;
 		};
-		6BC5AA651F2405FA004F6731 /* Debug */ = {
+		6B5E67871F24087C00A84896 /* Debug */ = {
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ALWAYS_EMBED_SWIFT_STANDARD_LIBRARIES = YES;
@@ -482,7 +482,7 @@
 			};
 			name = Debug;
 		};
-		6BC5AA661F2405FA004F6731 /* Release */ = {
+		6B5E67881F24087C00A84896 /* Release */ = {
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ALWAYS_EMBED_SWIFT_STANDARD_LIBRARIES = YES;
@@ -498,40 +498,40 @@
 /* End XCBuildConfiguration section */
 
 /* Begin XCConfigurationList section */
-		6BC5AA2F1F2405F9004F6731 /* Build configuration list for PBXProject "Traktion" */ = {
+		6B5E67511F24087C00A84896 /* Build configuration list for PBXProject "Traktion" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
-				6BC5AA5C1F2405FA004F6731 /* Debug */,
-				6BC5AA5D1F2405FA004F6731 /* Release */,
+				6B5E677E1F24087C00A84896 /* Debug */,
+				6B5E677F1F24087C00A84896 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
 			defaultConfigurationName = Release;
 		};
-		6BC5AA5E1F2405FA004F6731 /* Build configuration list for PBXNativeTarget "Traktion" */ = {
+		6B5E67801F24087C00A84896 /* Build configuration list for PBXNativeTarget "Traktion" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
-				6BC5AA5F1F2405FA004F6731 /* Debug */,
-				6BC5AA601F2405FA004F6731 /* Release */,
+				6B5E67811F24087C00A84896 /* Debug */,
+				6B5E67821F24087C00A84896 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
 		};
-		6BC5AA611F2405FA004F6731 /* Build configuration list for PBXNativeTarget "TraktionTests" */ = {
+		6B5E67831F24087C00A84896 /* Build configuration list for PBXNativeTarget "TraktionTests" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
-				6BC5AA621F2405FA004F6731 /* Debug */,
-				6BC5AA631F2405FA004F6731 /* Release */,
+				6B5E67841F24087C00A84896 /* Debug */,
+				6B5E67851F24087C00A84896 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
 		};
-		6BC5AA641F2405FA004F6731 /* Build configuration list for PBXNativeTarget "TraktionUITests" */ = {
+		6B5E67861F24087C00A84896 /* Build configuration list for PBXNativeTarget "TraktionUITests" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
-				6BC5AA651F2405FA004F6731 /* Debug */,
-				6BC5AA661F2405FA004F6731 /* Release */,
+				6B5E67871F24087C00A84896 /* Debug */,
+				6B5E67881F24087C00A84896 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
 		};
 /* End XCConfigurationList section */
 	};
-	rootObject = 6BC5AA2C1F2405F9004F6731 /* Project object */;
+	rootObject = 6B5E674E1F24087C00A84896 /* Project object */;
 }
