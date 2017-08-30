@@ -9,24 +9,22 @@
 import UIKit
 
 class RadioTab: UITableViewController {
-    //You're a poopy lol
+    
     let cellId = "cellId"
     
-    let animals = ["Dog", "Cat", "Ferret"]
+    let songs = ["Hello World", "New Song", "Song"]
     
     override func tableView(_ tableView: UITableView, numberOfRowsInSection section: Int) -> Int {
         
-        return(animals.count)
+        return(songs.count)
     }
     
     override func tableView(_ tableView: UITableView, cellForRowAt indexPath: IndexPath) -> UITableViewCell {
 
         
         let cell = tableView.dequeueReusableCell(withIdentifier: cellId, for: indexPath) as! RadioTabTableViewCell
-        cell.artistName.text = animals[indexPath.item]
+        cell.artistImage.image = UIImage(named: "Pink Floyd")
         cell.backgroundColor = .white
-        
-//        cell.albumImage.image = UIImage(named: animals[indexPath.row])
         
         return(cell)
         
@@ -55,12 +53,3 @@ class RadioTab: UITableViewController {
 }
 
 
-
-
-
-
-
-
-
-
-//Oh I see you found me
